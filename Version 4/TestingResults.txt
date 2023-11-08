@@ -1,0 +1,88 @@
+Logistic Regression
+Test #1 : Min. 10 matches played, 2020 games
+Total Matches: 1462
+Matches Correct: 401
+Matches Simulated: 1178
+Accuracy: 34.04074702886248
+
+Test #2: Min. 20 matches played, 2020 games
+Total Matches: 1462
+Matches Correct: 355
+Matches Simulated: 1018
+Accuracy: 34.87229862475442
+
+Test #3: Min. 20 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 355
+Matches Simulated: 1016
+Accuracy: 34.94094488188976
+
+Test #3: Min. 50 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 237
+Matches Simulated: 700
+Accuracy: 33.85714285714286
+
+Test #4: Min. 100 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 159
+Matches Simulated: 497
+Accuracy: 31.991951710261567
+
+Test #5: Min. 200 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 77
+Matches Simulated: 244
+Accuracy: 31.557377049180328
+
+Test #6: Min. 300 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 30
+Matches Simulated: 108
+Accuracy: 27.77777777777778
+
+Random Forest Algorithm
+Test #7: Min. 20 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 316
+Matches Simulated: 919
+Accuracy: 34.38520130576714
+
+Test #8: Min. 100 matches played, 2020 games, not count matches where both 0 or both 1
+Total Matches: 1462
+Matches Correct: 159
+Matches Simulated: 499
+Accuracy: 31.863727454909817
+
+
+Mega Random Forest
+Total Matches: 1462
+Matches Correct: 968
+Matches Simulated: 1457
+Accuracy: 66.4378860672615
+Match Score Correct: 777
+Accuracy: 53.328757721345234
+
+>0.6
+Total Matches: 1462
+Matches Correct: 554
+Matches Simulated: 801
+Accuracy: 69.16354556803995
+Match Score Correct: 0
+Accuracy: 0.0
+
+>0.65
+Total Matches: 1462
+Matches Correct: 13
+Matches Simulated: 23
+Accuracy: 56.52173913043478
+Match Score Correct: 0
+Accuracy: 0.0
+
+>0.62
+Total Matches: 1462
+Matches Correct: 305
+Matches Simulated: 468
+Accuracy: 65.17094017094017
+Match Score Correct: 0
+Accuracy: 0.0

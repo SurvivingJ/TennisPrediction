@@ -1,0 +1,133 @@
+Avg Diff: 0.5236350364963502
+<0.25 Num: 52.55474452554745
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct Model: 257
+Matches Simulated: 1370
+Accuracy Model: 18.759124087591243
+-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 867
+Matches Simulated: 1370
+Accuracy V1: 63.284671532846716
+-------------------------------------------
+
+Boundary: 2
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 142
+Matches Simulated: 245
+Accuracy V1: 57.95918367346938
+-------------------------------------------
+
+Boundary: 1.5
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 970
+Matches Simulated: 1462
+Accuracy V1: 66.34746922024624
+-------------------------------------------
+
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 996
+Matches Simulated: 1462
+Accuracy V1: 68.12585499316005
+-------------------------------------------
+
+NEW MODEL
+===============================================================
+Boundary: 1
+Predicted Match Score: [1.88697677]
+Actual Match Score: 2
+Avg Diff: 0.5113243896362774
+<0.25 Num: 51.778385772913815
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct Model: 309
+Matches Simulated: 1462
+Accuracy Model: 21.135430916552668
+-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 921
+Matches Simulated: 1462
+Accuracy V1: 62.99589603283173
+-------------------------------------------
+
+
+Boundary: 1, Player Score Diff > 1.5:
+-------------------------------------------
+Predicted Match Score: [1.87017744]
+Actual Match Score: 2
+Avg Diff: 0.504992959386705
+<0.25 Num: 53.214774281805745
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct Model: 331
+Matches Simulated: 1078
+Accuracy Model: 30.70500927643785
+-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 755
+Matches Simulated: 1078
+Accuracy V1: 70.03710575139146
+-------------------------------------------
+
+Boundary: 1.5, Player Score Diff > 2.5:
+-------------------------------------------
+Predicted Match Score: [1.86995578]
+Actual Match Score: 2
+Avg Diff: 0.5050918589334992
+<0.25 Num: 53.214774281805745
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct Model: 337
+Matches Simulated: 740
+Accuracy Model: 45.54054054054054
+-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 539
+Matches Simulated: 740
+Accuracy V1: 72.83783783783784
+-------------------------------------------
+
+Boundary: 1.75, Player Score Diff > 2.5:
+-------------------------------------------
+Predicted Match Score: [1.87214155]
+Actual Match Score: 2
+Avg Diff: 0.5051989578507883
+<0.25 Num: 53.214774281805745
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct Model: 340
+Matches Simulated: 738
+Accuracy Model: 46.070460704607044
+-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 543
+Matches Simulated: 738
+Accuracy V1: 73.57723577235772
+-------------------------------------------
+
+Boundary:1.75, Player Score Diff > 3:
+-------------------------------------------
+Predicted Match Score: [1.87164545]
+Actual Match Score: 2
+Avg Diff: 0.5053436915456785
+<0.25 Num: 53.214774281805745
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct Model: 344
+Matches Simulated: 701
+Accuracy Model: 49.07275320970042
+-------------------------------------------
+++++++++++++++++++++++++++++++++++++++++++++
+Matches Correct: 528
+Matches Simulated: 701
+Accuracy V1: 75.320970042796
+-------------------------------------------
+
+
+Mega Random Forest Model
+No checks
+Total Matches: 1462
+Matches Correct: 968
+Matches Simulated: 1462
+Accuracy: 66.21067031463748
+
+If not both 0 or 1
+Total Matches: 1462
+Matches Correct: 968
+Matches Simulated: 1457
+Accuracy: 66.4378860672615

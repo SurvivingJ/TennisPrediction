@@ -1,0 +1,17 @@
+No Boundary
+Matches Correct: 1671
+Matches Simulated: 2781
+Accuracy: 60%
+Total Sim: 100%
+
+Boundary = 1
+Matches Correct: 1483
+Matches Simulated: 1661
+Accuracy: 89.3%
+Total Sim: 59.7%
+
+Boundary = 1.5
+Matches Correct: 328
+Matches Simulated: 329
+Accuracy: 99.7%
+Total Sim: 11.8%

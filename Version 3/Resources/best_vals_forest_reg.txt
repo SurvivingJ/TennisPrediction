@@ -1,0 +1,31 @@
+Best parameters are: {'max_depth': 8, 'n_estimators': 250}
+
+
+0.019 + or -0.003 for the {'max_depth': 2, 'n_estimators': 5}
+0.02 + or -0.003 for the {'max_depth': 2, 'n_estimators': 10}
+0.02 + or -0.003 for the {'max_depth': 2, 'n_estimators': 50}
+0.02 + or -0.003 for the {'max_depth': 2, 'n_estimators': 100}
+0.02 + or -0.003 for the {'max_depth': 2, 'n_estimators': 250}
+0.022 + or -0.002 for the {'max_depth': 4, 'n_estimators': 5}
+0.023 + or -0.002 for the {'max_depth': 4, 'n_estimators': 10}
+0.024 + or -0.002 for the {'max_depth': 4, 'n_estimators': 50}
+0.024 + or -0.002 for the {'max_depth': 4, 'n_estimators': 100}
+0.025 + or -0.002 for the {'max_depth': 4, 'n_estimators': 250}
+0.016 + or -0.002 for the {'max_depth': 8, 'n_estimators': 5}
+0.022 + or -0.003 for the {'max_depth': 8, 'n_estimators': 10}
+0.026 + or -0.002 for the {'max_depth': 8, 'n_estimators': 100}
+0.026 + or -0.002 for the {'max_depth': 8, 'n_estimators': 250}
+-0.041 + or -0.005 for the {'max_depth': 16, 'n_estimators': 5}
+-0.004 + or -0.005 for the {'max_depth': 16, 'n_estimators': 10}
+0.018 + or -0.002 for the {'max_depth': 16, 'n_estimators': 50}
+0.02 + or -0.002 for the {'max_depth': 16, 'n_estimators': 100}
+0.022 + or -0.002 for the {'max_depth': 16, 'n_estimators': 250}
+-0.164 + or -0.008 for the {'max_depth': 32, 'n_estimators': 5}
+-0.066 + or -0.005 for the {'max_depth': 32, 'n_estimators': 10}
+0.002 + or -0.005 for the {'max_depth': 32, 'n_estimators': 50}
+0.009 + or -0.004 for the {'max_depth': 32, 'n_estimators': 100}
+0.015 + or -0.004 for the {'max_depth': 32, 'n_estimators': 250}
+-0.184 + or -0.007 for the {'max_depth': None, 'n_estimators': 5}
+-0.084 + or -0.004 for the {'max_depth': None, 'n_estimators': 10}
+0.007 + or -0.003 for the {'max_depth': None, 'n_estimators': 100}
+0.013 + or -0.004 for the {'max_depth': None, 'n_estimators': 250}
