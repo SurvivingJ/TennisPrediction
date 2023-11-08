@@ -103,5 +103,11 @@ Version 4 introduced a more tailored approach. Instead of a universal model for 
 
 Despite the ingenuity of this individualistic approach, testing revealed a critical drawback. Players with fewer matches provided a limited dataset, which in turn constrained the model's learning potential and the richness of its predictive insights. This scarcity of data points led to a discernible decline in the models' effectiveness, as evidenced by a comparative analysis with the previous version. The findings underscore the importance of a substantial data foundation to capture the complexities of player performance and the dynamic nature of the sport.
 
+## Things To Improve
+While there are many new data handling and machine learning insights I would apply to this project if I were to create a Version 5, there are a few more basic things I would improve:  
+- Folder Structure -> My folders and the files within them are organised rather haphazardly. I would seek to create a cleaner file structure in future.
+- Code Efficiency -> I have noticed some rather clunky code implementations that I would look to optimise.
+- Code Commenting -> While I commented rather well (especially for noting what different data cleaning sections were doing), there are improvements I have made in using doc strings and other good practices.
+
 ## Conclusion
 This project was a valuable learning experience in data management and machine learning techniques. It culminated in achieving a peak prediction accuracy of 75.32%, where the model successfully forecasted the outcomes of 528 matches within a test dataset comprising 701 contests. This result was attained after excluding outcomes from Version 1, which was identified as significantly overfitted. The insights gained from this endeavor have been instrumental in understanding the critical balance between model complexity and generalizability.
