@@ -107,7 +107,7 @@ Despite the ingenuity of this individualistic approach, testing revealed a criti
 While there are many new data handling and machine learning insights I would apply to this project if I were to create a Version 5, there are a few more basic things I would improve:  
 - Folder Structure -> My folders and the files within them are organised rather haphazardly. I would seek to create a cleaner file structure in future.
 - Code Efficiency -> I have noticed some rather clunky code implementations that I would look to optimise.
-- Code Commenting -> While I commented rather well (especially for noting what different data cleaning sections were doing), there are improvements I have made in using doc strings and other good practices.
+- Code Commenting -> While I commented rather well (especially for noting what different data cleaning sections were doing), there are improvements I would make in using doc strings and other good practices.
 
 ## Conclusion
 This project was a valuable learning experience in data management and machine learning techniques. It culminated in achieving a peak prediction accuracy of 75.32%, where the model successfully forecasted the outcomes of 528 matches within a test dataset comprising 701 contests. This result was attained after excluding outcomes from Version 1, which was identified as significantly overfitted. The insights gained from this endeavor have been instrumental in understanding the critical balance between model complexity and generalizability.
